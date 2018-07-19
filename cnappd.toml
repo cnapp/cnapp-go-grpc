@@ -1,0 +1,6 @@
+# Cnappd configuration file
+
+[api]
+grpcPort = 8210
+restPort = 9310
+
